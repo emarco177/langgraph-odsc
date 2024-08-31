@@ -1,8 +1,4 @@
-# Simply Graph
-# make to audienc that we are working onlanggraph constructs, not building graph
-# show functions implementation
 
-# make colab
 import operator
 import time
 from typing import Annotated, Any, Dict
@@ -54,8 +50,8 @@ graph.get_graph().draw_mermaid_png(output_file_path="graph.png")
 
 
 if __name__ == "__main__":
-    # res = graph.invoke({"aggregate": []}, {"configurable": {"thread_id": "foo"}})
-    # print(f"{res=}")
+    res = graph.invoke({"aggregate": []}, {"configurable": {"thread_id": "foo"}})
+    print(f"{res=}")
 
-    for state in graph.stream({"aggregate": []}, {"configurable": {"thread_id": "foo"}}, stream_mode="values"):
-        print(f"{state=}")
+    # for state in graph.stream({"aggregate": []}, {"configurable": {"thread_id": "foo"}}, stream_mode="values"):
+    #     print(f"{state=}")
