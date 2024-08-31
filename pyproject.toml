@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "odsc"
+version = "0.1.0"
+description = ""
+authors = ["Eden Marco <emarco177@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.2.7"
+langchain-google-vertexai = "^1.0.6"
+langchain-community = "^0.2.7"
+black = "^24.4.2"
+isort = "^5.13.2"
+python-dotenv = "^1.0.1"
+httpx = "^0.27.0"
+langgraph = "^0.2.15"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
