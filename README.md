@@ -26,7 +26,7 @@ By the end of this hands-on session, you will:
 - Implement asynchronous and conditional logic in your agents
 - Gain practical experience in building flexible and powerful AI workflows
 
-## 🛠️ Getting Started
+## 🛠️ Getting Started (IDE, not Colab)
 
 1. Clone this repository:
    ```
