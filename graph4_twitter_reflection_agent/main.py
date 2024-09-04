@@ -11,7 +11,6 @@ from chains import generate_chain, reflect_chain
 
 
 class State(TypedDict):
-    messages: Annotated[list, operator.add]
     tweet: str
     original_tweet: str
     critique: str
@@ -54,7 +53,7 @@ builder.add_conditional_edges(REFLECT, should_continue)
 builder.add_edge(GENERATE, REFLECT)
 
 graph = builder.compile()
-# graph.get_graph().draw_mermaid_png(output_file_path="graph.png")
+graph.get_graph().draw_mermaid_png(output_file_path="graph.png")
 
 if __name__ == "__main__":
     print("Hello LangGraph")

@@ -5,9 +5,9 @@ Welcome to the repository for our ODSC session on implementing GenAI agents usin
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EdenEmarco177?style=social)](https://x.com/EdenEmarco177)
 
-<!--[![udemy](https://img.shields.io/badge/LangGraph🦜🔗%20Udemy%20Course-ODSC%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langgraph/?couponCode=F0552D6A6EDA91348FDA)  -->
+[![udemy](https://img.shields.io/badge/LangGraph🦜🔗%20Udemy%20Course-ODSC%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langgraph/?couponCode=ODSC-2024-DB8B797EAD)
 
-<!--[![udemy](https://img.shields.io/badge/LangChain🦜🕸️%20Udemy%20Course-ODSC%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langchain/?couponCode=ODSCEU2024) -->
+[![udemy](https://img.shields.io/badge/LangChain🦜🕸️%20Udemy%20Course-ODSC%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langchain/?couponCode=ODSCEU2024)
 
 ## 📚 Repository Structure
 
@@ -16,7 +16,7 @@ This repository contains five subpackages, each demonstrating different aspects 
 1. 📊 `graph1_hello_odsc`: A simple introduction to LangGraph basics
 2. ⚡ `graph2_async_execution`: Exploring asynchronous execution in LangGraph
 3. 🌳 `graph3_conditional_branch`: Implementing conditional branching in your agent's logic
-4. 🧩 `graph4`: Advanced LangGraph techniques and patterns
+4. 🧩 `graph4_twitter_reflection_agent`: Reflection techniques for a twitter Agent
 
 ## 🎯 Session Goals
 
@@ -47,7 +47,7 @@ By the end of this hands-on session, you will:
 2. 🔍 Exploring the basics with `graph1_hello_odsc`
 3. ⏱️ Asynchronous execution deep dive using `graph2_async_execution`
 4. 🔀 Implementing decision-making with `graph3_conditional_branch`
-5. 🏗️ Advanced patterns and techniques in `graph4`
+5. 🏗️ Reflection patterns in `graph4_twitter_reflection_agent`
 6. 🛠️ Hands-on coding session
 7. 🤔 Q&A and discussion
 
@@ -82,6 +82,6 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 Happy coding, and enjoy building your GenAI agents with LangGraph! 🎉
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.udemy.com/course/langchain/?referralCode=D981B8213164A3EA91AC)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.udemy.com/course/langgraph/?couponCode=ODSC-2024-DB8B797EAD)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eden-marco/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/EdenEmarco177/)
