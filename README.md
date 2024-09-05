@@ -5,9 +5,9 @@ Welcome to the repository for our ODSC session on implementing GenAI agents usin
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EdenEmarco177?style=social)](https://x.com/EdenEmarco177)
 
-[![udemy](https://img.shields.io/badge/LangGraph🦜🔗%20Udemy%20Course-ODSC%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langgraph/?couponCode=ODSC-2024-DB8B797EAD)
+[//]: [![udemy](https://img.shields.io/badge/LangGraph🦜🔗%20Udemy%20Course-ODSC%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langgraph/?couponCode=ODSC-2024-DB8B797EAD)
 
-[![udemy](https://img.shields.io/badge/LangChain🦜🕸️%20Udemy%20Course-ODSC%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langchain/?couponCode=ODSCEU2024)
+[//]: [![udemy](https://img.shields.io/badge/LangChain🦜🕸️%20Udemy%20Course-ODSC%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langchain/?couponCode=ODSCEU2024)
 
 ## 📚 Repository Structure
 
@@ -77,6 +77,8 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 ## 🙏 Acknowledgments
 
 - Special thanks to the LangChain team for providing slides, documentation, and their cooperation in making this session possible
+- LangGraph Deck by the LangChain team
+- https://docs.google.com/presentation/d/1sx9eb5sZotpxc5f4JMBB2T2WR4G5dK8Qjoozu_BuJ9E/edit#slide=id.g276f293e309_0_0
 - ODSC for hosting this session
 
 Happy coding, and enjoy building your GenAI agents with LangGraph! 🎉
